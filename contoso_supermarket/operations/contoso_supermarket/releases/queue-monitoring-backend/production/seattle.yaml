@@ -20,7 +20,7 @@ spec:
   values:
     acr_name: agacrb8c5b
     branch_name: "production"
-    image_tag: v1.1
+    image_tag: v1.3
     github_User: yukihonhk
     postgres:
       username: "postgres"
